@@ -1,0 +1,11 @@
+# Ingore visual Studio folder
+.vs/
+*.user
+*.suo
+
+#ignore build artifacts
+bin/
+obj/
+
+# Node modules related
+node_modules/
